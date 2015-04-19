@@ -1,0 +1,6 @@
+E:\Documents\GitHub\MachineLearning\Genetic\Genetic\bin\Debug\Genetic.exe.config
+E:\Documents\GitHub\MachineLearning\Genetic\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\MachineLearning\Genetic\Genetic\bin\Debug\Genetic.exe
+E:\Documents\GitHub\MachineLearning\Genetic\Genetic\bin\Debug\Genetic.pdb
+E:\Documents\GitHub\MachineLearning\Genetic\Genetic\obj\Debug\Genetic.exe
+E:\Documents\GitHub\MachineLearning\Genetic\Genetic\obj\Debug\Genetic.pdb
